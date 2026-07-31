@@ -1,4 +1,4 @@
-# Dietary Pattern Prediction based on 12 Simple Food Choices
+# Dietary Pattern Classification based on 12 Simple Food Choices
 
 ## About
 
@@ -22,7 +22,7 @@ This repository contains the model, script and sample data. Inside this reposito
 
 first of all, you should clone the project locally using Git:
 ```sh
-git clone https://github.com/CChen0901/Dietary_Pattern_Prediction.git
+git clone https://github.com/CChen0901/Dietary_Pattern_Classification.git
 ```
 2. Set file path
 
